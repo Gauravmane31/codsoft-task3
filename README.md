@@ -2,10 +2,6 @@
 
 A simple web-based calculator created using **HTML**, **CSS**, and **JavaScript**. This project is a part of the Codsoft internship/task submissions.
 
-## Demo
-
-&#x20;
-
 ## Features
 
 - Fully responsive calculator UI
@@ -21,18 +17,6 @@ A simple web-based calculator created using **HTML**, **CSS**, and **JavaScript*
 - **CSS3** - Styling and layout design
 - **JavaScript** - Logic for calculator operations and event handling
 
-## How to Use
-
-1. Clone the repository:
-
-```bash
-https://github.com/your-username/codsoft-calculator.git
-```
-
-2. Open the `index.html` file in any modern web browser.
-
-3. Start using the calculator directly!
-
 ## Code Overview
 
 - `HTML` creates the structure, including display and buttons.
@@ -47,16 +31,12 @@ https://github.com/your-username/codsoft-calculator.git
 ```
 ├── index.html
 ├── README.md
-└── screenshot.png (optional)
+└── screenshot.png
 ```
 
 ## Note
 
 This project uses `eval()` for simplicity. In production-level applications, it's recommended to implement a custom parser to handle calculations securely.
-
-## License
-
-This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
